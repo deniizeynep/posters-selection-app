@@ -1,4 +1,4 @@
-package com.posters
+package com.posterss
 
 import android.app.Application
 import com.facebook.react.PackageList
